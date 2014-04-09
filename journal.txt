@@ -21,3 +21,5 @@ shouldn't have eaten that cake
 why hello there 
 >>>>>>> ahh_branch
 >>>>>>> old_old
+
+Life is something we should treasure (i'm not gonna to be a good philosopher)
