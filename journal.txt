@@ -1,8 +1,12 @@
-Title
-Author
-Introduction 
+asfsdfTitle: programming
+Author: Emily 
+Introduction: this is difficult
 Conclusion
 References 
+<<<<<<< HEAD
 
 updating a bit more
 shouldn't have eaten that cake
+=======
+why hello there 
+>>>>>>> ahh_branch
