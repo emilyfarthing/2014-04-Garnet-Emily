@@ -1,9 +1,23 @@
+<<<<<<< HEAD
 ahhhhhhhhhTitle: programming
+=======
+asfsdfTitle: programming
+>>>>>>> old_old
 Author: Emily 
 Introduction: this is difficult
 Conclusion
 References 
+<<<<<<< HEAD
 
 hello hello
-hmm i don't know what to put here
+
 what is the meaning of life?????
+=======
+<<<<<<< HEAD
+
+updating a bit more
+shouldn't have eaten that cake
+=======
+why hello there 
+>>>>>>> ahh_branch
+>>>>>>> old_old
