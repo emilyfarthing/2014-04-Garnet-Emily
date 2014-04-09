@@ -1,5 +1,5 @@
-Title
-Author
-Introduction 
+Title: programming
+Author: Emily 
+Introduction: this is difficult
 Conclusion
 References 
